@@ -4,7 +4,7 @@
 
 I'm interested in starting a career as a software engineer. 
 
-I've competence in coding in C++, Python and SQL. I've also used MATLAB, R and SAS. 
+I've competence in coding in C++, Python, Javascript and SQL. I've also used MATLAB, R and SAS. 
 
 Currently, I'm interested in improving my object-oriented programming and web development skills. 
 I'm learning the courses Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games and React - The Complete Guide on Udemy. 
