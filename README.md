@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Mark Mesbur. I'm a recent graduate of a Master of Philosophy in Applied Mathematics at The Univerity of Manchester, 
+- 👋 Hi, I'm Mark Mesbur. I'm a recent student of a Master of Philosophy in Applied Mathematics at The Univerity of Manchester, 
 - I also hold a Master of Science in Applied Mathematics from The University of Manchester, 
 - and a Bachelor of Science in Mathematics from the Open University. 
 
