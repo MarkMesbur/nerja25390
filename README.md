@@ -1,13 +1,10 @@
-- 👋 Hi, I'm Mark Mesbur. I'm a recent student of a Master of Philosophy in Applied Mathematics at The Univerity of Manchester, 
-- I also hold a Master of Science in Applied Mathematics from The University of Manchester, 
-- and a Bachelor of Science in Mathematics from the Open University. 
+- 👋 Hi, I'm Mark
 
 I'm interested in starting a career as a software engineer. 
 
-I've competence in coding in C++, Python, Javascript and SQL. I've also used MATLAB, R and SAS. 
+I've competence in coding in C++, Python and Javascript.
 
-Currently, I'm interested in improving my object-oriented programming and web development skills. 
-I'm learning the courses Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games and React - The Complete Guide on Udemy. 
+Currently, I'm interested in improving my object-oriented programming and web development skills with React - The Complete Guide on Udemy. 
 
 I've got this Github linked to my Leetcode profile, where I practice coding interview questions. 
 
