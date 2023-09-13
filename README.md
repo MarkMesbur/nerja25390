@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Mark
 
-I'm interested in starting a career as a software engineer. 
+I'm interested in software engineering. 
 
 I've competence in coding in C++, Python and Javascript.
 
